@@ -164,7 +164,7 @@ section .title::after{
 
 .home{
     display: flex;
-    background: url("images/eu.jpg") no-repeat center;
+    background: url("eu.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
